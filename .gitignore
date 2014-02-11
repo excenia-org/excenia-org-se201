@@ -1,0 +1,2 @@
+bootstrap/**/dist
+bootstrap/test-infra/npm-shrinkwrap.canonical.json
